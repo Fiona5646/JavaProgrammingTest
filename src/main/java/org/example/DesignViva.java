@@ -1,7 +1,7 @@
 package org.example;
 
 public class DesignViva extends Assessment{
-    String assessmentName=AssessmentFeed.DESIGN_VIVA;
+    private String assessmentName=AssessmentFeed.DESIGN_VIVA;
     public DesignViva(){
         AIAllowed=false;
     }

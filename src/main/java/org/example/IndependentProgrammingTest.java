@@ -1,7 +1,7 @@
 package org.example;
 
 public class IndependentProgrammingTest extends Assessment{
-    String assessmentName=AssessmentFeed.PROGRAMMING_TEST;
+    private String assessmentName=AssessmentFeed.PROGRAMMING_TEST;
     public IndependentProgrammingTest(){
         AIAllowed=false;
     }

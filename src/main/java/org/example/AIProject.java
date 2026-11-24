@@ -1,7 +1,7 @@
 package org.example;
 
 public class AIProject extends Assessment{
-    String assessmentName=AssessmentFeed.AI_PROJECT;
+    private String assessmentName=AssessmentFeed.AI_PROJECT;
 
     public AIProject(){
         AIAllowed=true;
